@@ -11,20 +11,19 @@ A continuación verá el siguiente menú y le pedirá que inserte los diversos n
 ***************************************************
                    LoL App                       
 ***************************************************
-* Opción 1 - Añadir Campeón                       *
-* Opción 2 - Mostrar Campeoes                    *
-* Opción 3 - Ordenar Campeoes                    *
-* Opción 4 - Modificar Campeón                    *
-* Opción 5 - Borrar Campeón                       *                      
-* Opción 0 - Salir                                *
+*Cada opción hace lo que indica su nombre:
+* Opción 1 - Añadir Campeón
+* Al seleccionar la opción 1 le permite añadir un campeón, pidiendole al usuario que introduzca el nombre, la raza, la zona y el rol que ocupa.
+* Opción 2 - Mostrar Campeoes
+* Al seleccionar la opción 2 le permite mostrar la lista de campeones que ha añadido el usuario.
+* Opción 3 - Ordenar Campeoes
+* Al seleccionar la opción 3 le permite ordenar los campeones que ha añadido el usuario.
+* Opción 4 - Modificar Campeón
+* Al seleccionar la opción 4 le permite modificar los campeones que ha añadido el usuario.
+* Opción 5 - Borrar Campeón  
+* Al seleccionar la opción 5 le permite borrar un campeón.
+* Opción 0 - Salir             
+* Al seleccionar la opción 0 le permite salir del programa.
 ***************************************************
 
-Cada opción hace lo que indica su nombre:
-
-* Al seleccionar la opción 1 le permite añadir un campeón, pidiendole al usuario que introduzca el nombre, la raza, la zona y el rol que ocupa.
-* Al seleccionar la opción 2 le permite mostrar la lista de campeones que ha añadido el usuario.
-* Al seleccionar la opción 3 le permite ordenar los campeones que ha añadido el usuario.
-* Al seleccionar la opción 4 le permite modificar los campeones que ha añadido el usuario.
-* Al seleccionar la opción 5 le permite borrar un campeón.
-* Al seleccionar la opción 0 le permite salir del programa.
-*******************************************************************************************************************************************
+******************************************************************************************************************************************
