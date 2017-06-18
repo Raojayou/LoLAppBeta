@@ -26,7 +26,7 @@ MANUAL DE USO PARA USUARIO MEDIO: :video_game:
 > Al seleccionar la opción 4 le permite modificar los campeones que ha añadido el usuario.
 * Opción 5 - BORRAR CAMPEÓN
 > Al seleccionar la opción 5 le permite borrar un campeón.
-* Opción 0 - Salir             
+* Opción 0 - SALIR            
 > Al seleccionar la opción 0 le permite salir del programa.
 ---
 
