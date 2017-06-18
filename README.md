@@ -8,7 +8,7 @@ MANUAL DE USO PARA USUARIO MEDIO: :video_game:
 - Ordenar los campeones que ha añadido el usuario.
 - Modificar los campeones que ha añadido el usuario.
 - Borrar un campeón que ha añadido el usuario.
-- salir del programa.
+- Salir del programa.
 ---
 * A continuación verá el siguiente menú y le pedirá que inserte los diversos números para seleccionar la opción.
 
