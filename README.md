@@ -1,4 +1,4 @@
-# LoLAppBeta :package:
+# LoLAppBeta :clipboard:
 Proyecto Final de Programación.
 ---
 MANUAL DE USO PARA USUARIO MEDIO:
