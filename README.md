@@ -1,7 +1,7 @@
 # LoLAppBeta :clipboard:
 Proyecto Final de Programación.
 ---
-MANUAL DE USO PARA USUARIO MEDIO:
+MANUAL DE USO PARA USUARIO MEDIO: :video_game:
 * Ésta aplicación está basada en el juego League of Legends y le permitirá al usuario hacer varias cosas, entre ellas:
 Añadir un campeón, mostrar los campeones que ha añadido el usuario, ordenar los campeones que ha añadido el usuario, modificar los
 campeones que ha añadido el usuario, borrar un campeón que ha añadido el usuario y salir del programa.
